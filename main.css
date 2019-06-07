@@ -1,7 +1,7 @@
 h1 {
     color: black; 
     font-family: courier;
-    font-size: 450px;
+    font-size: 100px;
     text-align: center;
     background-color: yellow;
 }
@@ -9,7 +9,7 @@ h1 {
 h2 {
     color: black;
     font-family: courier;
-    font-size: 250px;
+    font-size: 80px;
     text-align: left;
     background-color: yellow;
 }
