@@ -1,8 +1,15 @@
 h1 {
     color: blue; 
     font: beyno;
-    font-size: 60;
+    font-size: 100;
+    text-align: center;
 }
+
 body {
-    background:color: red;
+  background-color: lightblue;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
