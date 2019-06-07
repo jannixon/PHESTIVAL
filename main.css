@@ -1,9 +1,15 @@
 h1 {
     color: black; 
     font: courier;
-    font-size: 200;
+    font-size: 550;
     text-align: center;
 }
+h2 {
+    color: black;
+    font: courier;
+    font-size: 450;
+    text-align: left;
+    background-color: yellow;
 
 body {
   background-color: white;
@@ -12,4 +18,5 @@ body {
 p {
   font-family: courier;
   font-size: 55px;
+  background-color: yellow;
 }
