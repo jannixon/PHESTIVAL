@@ -7,11 +7,11 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: white;
     font-family: courier;
     font-size: 50px;
     text-align: left;
-    background-color: yellow;
+    background-color: black;
 }
 
 body {
@@ -20,6 +20,6 @@ body {
 
 p {
   font-family: courier;
-  font-size: 55px;
+  font-size: 20px;
   background-color: yellow;
 }
