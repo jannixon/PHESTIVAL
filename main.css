@@ -3,13 +3,16 @@ h1 {
     font: courier;
     font-size: 550;
     text-align: center;
+     background-color: yellow;
 }
+
 h2 {
     color: black;
     font: courier;
     font-size: 450;
     text-align: left;
     background-color: yellow;
+}
 
 body {
   background-color: white;
