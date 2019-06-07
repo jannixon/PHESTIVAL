@@ -1,6 +1,6 @@
 h1 {
     color: black; 
-    font: impact;
+    font-family: courier;
     font-size: 550;
     text-align: center;
     background-color: yellow;
@@ -8,7 +8,7 @@ h1 {
 
 h2 {
     color: black;
-    font: impact;
+    font-family: courier;
     font-size: 450;
     text-align: left;
     background-color: yellow;
