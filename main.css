@@ -5,13 +5,10 @@ h1 {
     text-align: center;
     background-color: yellow;
     border-stlyle: groove;
-    div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
+    outline: groove;
+    outline-colour: black;
     
+     
 }
 
 h2 {
@@ -43,5 +40,11 @@ p.groove {
     border-style: groove;
 }
 
+div {
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
 
     
