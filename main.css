@@ -30,6 +30,11 @@ p {
 }
 img {
     align:center;
+    border: groove;
+    border-style groove;
+    outline: groove;
+    outline-color: black;
+    
 }
 
 div {
